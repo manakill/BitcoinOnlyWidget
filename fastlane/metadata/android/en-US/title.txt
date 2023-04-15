@@ -1,1 +1,1 @@
-Simple Crypto Widget
+Bitcoin Only Widget
